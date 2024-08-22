@@ -1,0 +1,45 @@
+body {
+    background-image: url('https://image.freepik.com/vector-gratis/elegante-fondo-oscuro-formas-doradas-luz-brillante_94047-690.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    padding: 45px;
+    color: white;
+   }
+  h1{
+    color:white;
+    font-size: 4em;
+    padding: 32px;
+    text-align: center; 
+    
+  } 
+  h2{
+    color:white;
+    font-size: 25px;
+    text-align: left;
+  }
+  ul{
+    color: white;
+    font-size: 20px;
+  }
+  p {
+    color:white;
+    font-size: 40px;
+    font-family: Arial;
+  }
+  section {
+    width: 70%;
+    margin-left: 10px;
+    margin-top: 25px;
+    padding: 30px;
+    float: left;
+}
+  aside {
+    width: 20%;
+    margin-left: 15px;
+    margin-top: 25px;
+    padding: 10px;
+    font-size: 1.5em;
+    float:left
+}
